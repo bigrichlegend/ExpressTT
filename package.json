@@ -8,12 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hdngr/treehouse-express-basics.git"
+    "url": "git+https://github.com/bigrichlegend/ExpressTT.git"
   },
   "author": "Bigrich",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hdngr/treehouse-express-basics/issues"
+    "url": "https://github.com/bigrichlegend/ExpressTT/issues"
   },
-  "homepage": "https://github.com/hdngr/treehouse-express-basics#readme"
+  "homepage": "https://github.com/bigrichlegend/ExpressTTs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
